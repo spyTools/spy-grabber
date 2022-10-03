@@ -1,5 +1,5 @@
 # spy-grabber
-A tool made by ! spy#0778 to grab privacy data on your targets pcb
+A tool made by ! spy#0778 to grab privacy data on your targets pc
 
 MAIN FEUTERES BELLOW:
 🛡️ STRONG WEBHOOK PROTECTION 🛡️ 
