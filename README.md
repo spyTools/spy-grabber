@@ -1,7 +1,7 @@
 # spy-grabber
 A tool made by ! spy#0778 to grab privacy data on your targets pcb
 
-MAIN FEUTERES BELLOW 
+MAIN FEUTERES BELLOW:
 🛡️ STRONG WEBHOOK PROTECTION 🛡️ 
 🛡️ IMPROVED ANTI DEBUGGING 🛡️ 
 ⚙️ SHARABLE CONFIG SYSTEM ⚙️ 
